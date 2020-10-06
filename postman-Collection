@@ -1,0 +1,12 @@
+====================================================================================
+
+postman collection link- https://www.getpostman.com/collections/f257cd79384e4ae3b4c0
+
+add your Consumer key,consumer secret,Access token,token secret
+
+=================================================================================
+URL used-http://localhost:86/rest/default/V1/products?searchCriteria[pageSize]=50
+Method-GET
+header- Authorization
+Authorization type-OAuth 1.0
+=================================================================================
